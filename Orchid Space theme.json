@@ -183,7 +183,7 @@
     }
   },
   "background": {
-    "blur": 0.1,
+    "blur": 10,
     "url": "https://i.imgur.com/qwYhPEa.jpeg",
     "alpha": 0.4
   },
