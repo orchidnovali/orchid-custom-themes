@@ -183,9 +183,9 @@
     }
   },
   "background": {
-    "blur": 7.5,
+    "blur": 6.5,
     "url": "https://i.imgur.com/qwYhPEa.jpeg",
-    "alpha": 0.4
+    "alpha": 5
   },
   "spec": 2
 }
