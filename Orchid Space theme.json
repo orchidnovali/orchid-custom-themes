@@ -132,7 +132,7 @@
     "PRIMARY_100": "#f1f1f1",
     "PRIMARY_200": "#c8c8c8",
     "PRIMARY_300": "#FBFBFB",
-    "PRIMARY_400": "#b1b1b1",
+    "PRIMARY_400": "#e4e4e4",
     "PRIMARY_500": "#8961ba",
     "PRIMARY_600": "#7b1e7f",
     "PRIMARY_700": "#120212",
@@ -161,7 +161,7 @@
     "BLUE_345": "#d261d8",
     "BLUE_330": "#8961ba",
     "WHITE_500": "#f1f1f1",
-    "WHITE_630": "#b1b1b1"
+    "WHITE_630": "#e4e4e4"
   },
   "plus": {
     "version": "0",
